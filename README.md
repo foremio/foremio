@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 - 👯 我是 菜喵 (foremio)
 
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=GinkoCai&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true)
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=foremio&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true)
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
