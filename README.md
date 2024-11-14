@@ -1,7 +1,7 @@
 ### Hi there 👋
 🤖 **欢迎来到我的 GitHub 仓库！** 🚀
 
-🐟️ 我是一位热爱技术和解决问题的咸鱼。我的开源项目诞生于日常生活中遇到的各种小难题和需求。
+🐟️ 我是菜喵 (foremio)，一位热爱技术和解决问题的咸鱼。我的开源项目诞生于日常生活中遇到的各种小难题和需求。
 
 🎉 感谢你的到访，希望你在这里能找到你需要的东西！
 <h4>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 我是 菜喵 (foremio)
+
 
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=foremio&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true)
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
