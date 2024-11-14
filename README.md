@@ -1,4 +1,9 @@
 ### Hi there 👋
+🤖 **欢迎来到我的 GitHub 仓库！** 🚀
+
+🐟️ 我是一位热爱技术和解决问题的咸鱼。我的开源项目诞生于日常生活中遇到的各种小难题和需求。
+
+🎉 感谢你的到访，希望你在这里能找到你需要的东西！
 <h4>
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
   {折腾 ⇌ 迷茫 ⇌ 思考]ing，在路上...
